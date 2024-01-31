@@ -1,4 +1,4 @@
-
+Assignment 2 | Strings
 
 1.	What is the purpose of this program(s)?
  The main purpose of this program was to work with python’s string functions to do some tricks with words, such as getting some letters of the word or by using the addition operator to concatenate we put words together, for password and users. 
