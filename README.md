@@ -1,4 +1,4 @@
-# INFO-B210
+#Assignment 1
 Numeric Variables with python 
 
 What is the purpose of this program(s)?
